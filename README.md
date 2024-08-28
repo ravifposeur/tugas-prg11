@@ -4,4 +4,4 @@
 *24/540583/PA/22953*<br>
 
 ## Catatan Khusus
-Saya memberikan tiap pertanyaan folder tersendiri disertai dengan file .cpp untuk preview kode dan .exe untuk menjalankan program tersebut di terminal. penjelasan tiap baris kode saya tuliskan dalam bentuk comment di masing-masing file dengan format .cpp
+Saya memberikan tiap penugasan folder tersendiri, dan tiap soal atau program yang dibuat akan disertai dengan file .cpp untuk preview kode dan .exe untuk menjalankan program tersebut di terminal. penjelasan tiap baris kode saya tuliskan dalam bentuk comment di masing-masing file dengan format .cpp
